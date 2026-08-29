@@ -1,0 +1,15 @@
+{
+  "device": "OPPO Pad Mini OPD2515",
+  "systemBuild": "OPD2515_16.0.10.500(CN01)",
+  "targetPackage": "com.oplus.exsystemservice",
+  "targetApkSha256": "7ec5bc4f1bb6e3a06694b4593622263641e3f5a01c486d1301cb49f0e22d34a9",
+  "binderService": "anti_root_dialog",
+  "binderDescriptor": "com.oplus.exsystemservice.antirootdialog.IAntiRootDialog",
+  "hooks": [
+    "v6.b$j.g0(int)",
+    "v6.b.x(android.content.Context,int,java.lang.String)",
+    "v6.b.y(android.content.Context,int,java.lang.String)"
+  ],
+  "modernXposedApi": 102,
+  "validatedLsposed": "2.1.1 (7790)"
+}

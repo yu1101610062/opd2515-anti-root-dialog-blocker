@@ -1,0 +1,22 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+.vscode/
+*.iml
+__pycache__/
+*.py[cod]
+
+# Signing material must never enter Git.
+*.jks
+*.keystore
+*.p12
+*.pem
+keystore.properties
+
+# Target/vendor binaries are intentionally excluded.
+*.apk
+*.apks
+*.aab
+*.dex
